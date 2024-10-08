@@ -1,1 +1,1 @@
-# Proyecto_BGO08102024
+# Proyecto_BGO08102024, En esta práctica el objetivo es controlar el git mediante la herramienta tortoise
